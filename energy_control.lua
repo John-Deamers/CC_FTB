@@ -1,15 +1,3 @@
-;; ************************************************************************** ;;
-;;                                                                            ;;
-;;                                                        :::      ::::::::   ;;
-;;   energy_control.lua                                 :+:      :+:    :+:   ;;
-;;                                                    +:+ +:+         +:+     ;;
-;;   By: ppaglier <ppaglier@student.42.fr>          +#+  +:+       +#+        ;;
-;;                                                +#+#+#+#+#+   +#+           ;;
-;;   Created: 2020/07/23 02:10:47 by ppaglier          #+#    #+#             ;;
-;;   Updated: 2020/07/23 02:10:50 by ppaglier         ###   ########.fr       ;;
-;;                                                                            ;;
-;; ************************************************************************** ;;
-
 local batteries = {}
 local rednetInfo = {"EnergyControl", "MainBase"}
 local BatterieTypes = {"ic2:oldbatbox","ic2:oldmfe","ic2:oldmfsu"};
